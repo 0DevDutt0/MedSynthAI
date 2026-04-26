@@ -1,0 +1,27 @@
+{
+  "shape": {
+    "expected": 10000,
+    "actual": 10000,
+    "valid": true
+  },
+  "columns": {
+    "missing": [],
+    "extra": [],
+    "valid": true
+  },
+  "missingness": {
+    "mcar_rate": 0.08117,
+    "mar_rate_sepsis_1": 0.17092337917485265,
+    "mar_rate_sepsis_0": 0.12432831103150353,
+    "mnar_rate": 0.0,
+    "text_missing_rate": 0.01,
+    "valid": true
+  },
+  "labels": {
+    "label_match_rate": 0.97,
+    "valid": true
+  },
+  "ranges": {
+    "valid": true
+  }
+}
